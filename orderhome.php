@@ -3,25 +3,22 @@
 <style>
 
 body {
-    background-color: purple;
+    background-color: pink;
     color: white;
 }
 .table {
     background-color: white;
-    color: white;
+
 }
 .table-dark th, .table-dark td, .table-dark thead th {
     color: white !important;
 }
 .btn-primary, .btn-secondary, .btn-danger, .btn-warning {
-    background-color: #00FF00;
-    border-color: #00FF00;
+    background-color: #1fbf13;
+    border-color: #1fbf13;
     color: white !important;
 }
-.btn-primary:focus, .btn-secondary:focus, .btn-danger:focus, .btn-warning:focus {
-    box-shadow: 0 0 0 0.25rem #00FF00;
-    color: white !important;
-}
+
 
     </style>
 <div class="container mt-5">
